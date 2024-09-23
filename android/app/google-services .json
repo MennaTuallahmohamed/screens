@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899228852242",
+    "project_id": "screen-40761",
+    "storage_bucket": "screen-40761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899228852242:android:a8ce780b1d4aa72c9e38cb",
+        "android_client_info": {
+          "package_name": "com.example.screens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHP5v1n9GJHp2GZHR3f-nmGi5ADhvDtNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
